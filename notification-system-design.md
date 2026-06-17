@@ -1,5 +1,6 @@
 # Notification System Design
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1ae6ec2-e5f0-4601-90f2-887682c3837f" />
+<img width="1913" height="1017" alt="image" src="https://github.com/user-attachments/assets/ba6126ec-7dd2-4207-b113-ab66d6a6f538" />
+
 
 ## Overview
 
